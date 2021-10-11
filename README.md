@@ -21,6 +21,7 @@ os mesmos requisitos de sistema, assim vamos instalar o django e o rest framewor
 </p>
 
 6 - Agora dentro do ambiente execute o comando para instalar os pacotes.
+OBS: Caso necessite, acesse o link para a instalção do pip: https://pip.pypa.io/en/stable/installation/
 
 <p align="center">
   <img src= "https://github.com/GuilhermeDeAssis123/Web/blob/master/img/install.png">
